@@ -84,9 +84,9 @@ if __name__ == "__main__":
     print(numpy_time)
 
     print('CuPy')
-    print(numpy_results)
-    print(numpy_size)
-    print(numpy_time)
+    print(cupy_results)
+    print(cupy_size)
+    print(cupy_time)
 
     plt.plot(numpy_size, numpy_time)
     plt.savefig('numpy.png')
