@@ -32,7 +32,7 @@ def run_tests(test_cases):
 
             start = time.time()
             # run numpy matrix mult
-            # _ = numpy_matmul(a, b)
+            _ = numpy_matmul(a, b)
             end = time.time()
             
             diff = end - start
@@ -56,7 +56,7 @@ def run_tests(test_cases):
 
             start = time.time()
             # run cupy matrix mult
-            # _ = cupy_matmul(a, b)
+            _ = cupy_matmul(a, b)
 
             # ensure that all streams have stopped before capturing time
             cp.cuda.Stream.null.synchronize()
