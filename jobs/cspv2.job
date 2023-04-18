@@ -1,0 +1,27 @@
+#!/bin/sh
+
+#SBATCH --job-name=multiplicationJob
+#SBATCH --output=multjob.%j.txt          
+#SBATCH --exclusive
+#SBATCH --gres=gpu                   
+#SBATCH --time=01:00:00              
+#SBATCH --partition=brown
+
+
+echo "Running on $(hostname):"
+
+# monitoring tools
+echo "start monitoring tools"
+top -i -b > top-log.txt &
+#nvidia-smi dmon > nvsmi.txt &
+nvidia-smi dmon > nvidia-smi-log.txt & 
+
+echo "setup conda environment for GPU job"
+echo "Running on $(hostname):"
+module load Anaconda3
+eval "$(conda shell.bash hook)"
+source activate csp_numpy_cupy
+#python3 ../src/gputest/multiplication.py 100 100
+
+echo "run GPU job"
+python3 ../src/test.py
