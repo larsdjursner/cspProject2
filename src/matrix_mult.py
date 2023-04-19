@@ -22,9 +22,11 @@ def run_tests(test_cases):
     runs_per_testcase = 10
     sizes = [j*1000 for j in range(1, runs_per_testcase+1)]
 
+    print('Running numpy tests')
     for size in sizes:
         results = []
-        
+        print('Current size: ' + str(size))
+
         for _ in range(test_cases):
             # Generate test data
             a = np.random.rand(size, size)
@@ -46,14 +48,16 @@ def run_tests(test_cases):
     runs_per_testcase = 10
     sizes = [j*1000 for j in range(1, runs_per_testcase+1)]
 
+    print('Running cupy tests')
     for size in sizes:
         results = []
+        print('Current size: ' + str(size))
         
         for _ in range(test_cases):
             # Generate test data
-            a = np.random.rand(size, size)
-            b = np.random.rand(size, size)
-
+            a = cp.array(np.random.rand(size, size))
+            b = cp.array(np.random.rand(size, size))
+            
             start = time.time()
             # run cupy matrix mult
             _ = cupy_matmul(a, b)
