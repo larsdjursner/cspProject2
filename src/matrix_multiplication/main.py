@@ -15,3 +15,4 @@ def matmul(test_cases):
     plt.legend(loc="upper left")
 
     plt.savefig('matmul.png')
+    plt.clf()

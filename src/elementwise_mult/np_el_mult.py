@@ -14,7 +14,7 @@ def run_tests(test_cases):
 
         for _ in range(test_cases):
             x = np.ones(shape=(size, size))
-            rand = random.randint()
+            rand = random.randint(1, 1000)
             start = time.time()
             np.multiply(x, rand)
             end = time.time()

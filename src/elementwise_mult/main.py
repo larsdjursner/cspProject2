@@ -15,3 +15,4 @@ def el_mult(test_cases):
     plt.legend(loc="upper left")
 
     plt.savefig('elementwise_mult.png')
+    plt.clf()

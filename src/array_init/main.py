@@ -15,3 +15,4 @@ def array_init(test_cases):
     plt.legend(loc="upper left")
 
     plt.savefig('array_init.png')
+    plt.clf()
