@@ -4,12 +4,9 @@ import numpy as np
 import time 
 import random
 
-def run_tests(test_cases):
+def run_tests(test_cases, sizes):
     ### Cupy and GPU
     cupy_results = []
-
-    runs_per_testcase = 10
-    sizes = [j*1000 for j in range(1, runs_per_testcase+1)]
     
     for size in sizes:
         results = []
@@ -27,8 +24,8 @@ def run_tests(test_cases):
         
     return cupy_results
 
-def cp_el_mult(test_cases):
-    cupy_results = run_tests(test_cases)
+def cp_el_mult(test_cases, sizes):
+    cupy_results = run_tests(test_cases, sizes)
     cupy_size, cupy_time = zip(*cupy_results)
 
     return (cupy_size, cupy_time)

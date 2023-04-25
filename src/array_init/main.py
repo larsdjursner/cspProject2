@@ -2,9 +2,9 @@ import matplotlib.pyplot as plt
 from array_init.cp_array_init import cp_array_init
 from array_init.np_array_init import np_array_init
 
-def array_init(test_cases):
-    numpy_size, numpy_time = np_array_init(test_cases)
-    cupy_size, cupy_time = cp_array_init(test_cases)
+def array_init(test_cases, sizes):
+    numpy_size, numpy_time = np_array_init(test_cases, sizes)
+    cupy_size, cupy_time = cp_array_init(test_cases, sizes)
 
     plt.title("Matrix init")
     plt.xlabel("Matrix Size")
