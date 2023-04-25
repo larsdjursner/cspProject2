@@ -1,4 +1,5 @@
 import cupy as cp
+import numpy as np
 import time 
 
 def run_tests(test_cases):
@@ -17,7 +18,7 @@ def run_tests(test_cases):
             end = time.time()
             results.append(end - start)
 
-        average = cp.mean(results)
+        average = np.mean(results)
         cupy_results.append((size*size, average))
     
     return cupy_results
