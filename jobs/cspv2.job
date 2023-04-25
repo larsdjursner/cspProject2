@@ -22,4 +22,4 @@ module load Anaconda3
 eval "$(conda shell.bash hook)"
 source activate csp_numpy_cupy
 echo "run cupy and numpy job"
-python3 ../src/matrix_mult.py
+python3 ../src/main.py

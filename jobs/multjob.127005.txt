@@ -1,0 +1,17 @@
+Running on desktop5:
+start monitoring tools
+setup conda environment for GPU job
+Running on desktop5:
+
+The following have been reloaded with a version change:
+  1) Anaconda3/2021.11 => Anaconda3/2021.05
+
+run cupy and numpy job
+Traceback (most recent call last):
+  File "../src/main.py", line 8, in <module>
+    array_init(10)
+  File "/home/ladr/cspProject2/src/array_init/main.py", line 6, in array_init
+    numpy_size, numpy_time = np_array_init(test_cases)
+  File "/home/ladr/cspProject2/src/array_init/np_array_init.py", line 26, in np_array_init
+    numpy_size, numpy_time = zip(*numpy_results)
+TypeError: type object argument after * must be an iterable, not NoneType

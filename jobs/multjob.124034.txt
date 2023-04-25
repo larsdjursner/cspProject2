@@ -1,0 +1,10 @@
+Running on desktop4:
+start monitoring tools
+setup conda environment for GPU job
+Running on desktop4:
+
+The following have been reloaded with a version change:
+  1) Anaconda3/2021.11 => Anaconda3/2021.05
+
+run GPU job
+python3: can't open file '../src/test.py': [Errno 2] No such file or directory
