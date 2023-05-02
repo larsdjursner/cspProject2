@@ -17,14 +17,19 @@ def run_tests(test_cases, sizes):
             a = cp.array(np.random.rand(size, size))
             b = cp.array(np.random.rand(size, size))
             
-            start = time.time()
+            # measure the time taken to execute the kernel
+            start = cp.cuda.Event()
+            end = cp.cuda.Event()
+
+            start.record()
+
             x = cupy_matmul(a, b)
             x.size
-            # ensure that all streams have stopped before capturing time
-            cp.cuda.Stream.null.synchronize()
-            end = time.time()
-            
-            diff = (end - start)*1000 # convert to milliseconds
+
+            end.record()
+            end.synchronize()
+
+            diff = cp.cuda.get_elapsed_time(start, end)  
             
             results.append(diff)
             a = None

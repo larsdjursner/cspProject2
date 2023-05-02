@@ -18,6 +18,7 @@ def main():
     array_init(test_cases=test_cases, sizes=sizes)
     el_mult(test_cases=test_cases, sizes=sizes)
     matmul(test_cases=test_cases, sizes=sizes)
+    
 
 if __name__ == "__main__":
     main()

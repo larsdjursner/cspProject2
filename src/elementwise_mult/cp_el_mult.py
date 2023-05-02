@@ -14,11 +14,20 @@ def run_tests(test_cases, sizes):
         for _ in range(test_cases):
             x = cp.ones(shape=(size, size))
             rand = random.randint(1, 1000)
-            start = time.time()
+
+            start = cp.cuda.Event()
+            end = cp.cuda.Event()
+
+            start.record()
+
             y = cp.multiply(x, rand)
             y.size
-            end = time.time()
-            diff = (end - start)*1000 # convert to milliseconds
+
+            end.record()
+            end.synchronize()
+
+            diff = cp.cuda.get_elapsed_time(start, end)  
+
             results.append(diff)
             y = None
             cp.get_default_memory_pool().free_all_blocks()
