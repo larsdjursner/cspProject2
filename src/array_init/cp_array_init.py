@@ -16,6 +16,9 @@ def run_tests(test_cases, sizes):
             end = time.time()
             diff = (end - start)*1000 # convert to milliseconds
             results.append(diff)
+            x = None
+            cp.get_default_memory_pool().free_all_blocks()
+
 
         average = np.mean(results)
         cupy_results.append((size*size, average))
