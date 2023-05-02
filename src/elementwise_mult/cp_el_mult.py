@@ -15,7 +15,8 @@ def run_tests(test_cases, sizes):
             x = cp.ones(shape=(size, size))
             rand = random.randint(1, 1000)
             start = time.time()
-            cp.multiply(x, rand)
+            y = cp.multiply(x, rand)
+            y.size
             end = time.time()
             results.append(end - start)
 

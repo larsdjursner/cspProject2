@@ -13,7 +13,8 @@ def run_tests(test_cases, sizes):
             x = np.ones(shape=(size, size))
             rand = random.randint(1, 1000)
             start = time.time()
-            np.multiply(x, rand)
+            y = np.multiply(x, rand)
+            y.size
             end = time.time()
             results.append(end - start)
 

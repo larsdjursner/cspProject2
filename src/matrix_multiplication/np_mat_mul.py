@@ -16,7 +16,8 @@ def run_tests(test_cases, sizes):
             b = np.random.rand(size, size)
 
             start = time.time()
-            _ = numpy_matmul(a, b)
+            x = numpy_matmul(a, b)
+            x.size
             end = time.time()
             
             diff = end - start

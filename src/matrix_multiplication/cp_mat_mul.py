@@ -18,7 +18,8 @@ def run_tests(test_cases, sizes):
             b = cp.array(np.random.rand(size, size))
             
             start = time.time()
-            _ = cupy_matmul(a, b)
+            x = cupy_matmul(a, b)
+            x.size
             # ensure that all streams have stopped before capturing time
             cp.cuda.Stream.null.synchronize()
             end = time.time()

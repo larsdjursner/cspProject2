@@ -10,7 +10,8 @@ def run_tests(test_cases, sizes):
 
         for _ in range(test_cases):
             start = time.time()
-            _ = np.ones(shape=(size, size))
+            x = np.ones(shape=(size, size))
+            x.size
             end = time.time()
             results.append(end - start)
 

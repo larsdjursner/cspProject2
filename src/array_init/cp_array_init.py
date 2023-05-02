@@ -11,7 +11,8 @@ def run_tests(test_cases, sizes):
 
         for _ in range(test_cases):
             start = time.time()
-            _ = cp.ones(shape=(size, size))
+            x = cp.ones(shape=(size, size))
+            x.size
             end = time.time()
             results.append(end - start)
 
