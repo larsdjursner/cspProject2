@@ -18,7 +18,8 @@ def run_tests(test_cases, sizes):
             y = cp.multiply(x, rand)
             y.size
             end = time.time()
-            results.append(end - start)
+            diff = (end - start)*1000 # convert to milliseconds
+            results.append(diff)
 
         average = np.mean(results)
         cupy_results.append((size*size, average))

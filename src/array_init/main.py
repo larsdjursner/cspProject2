@@ -17,7 +17,12 @@ def array_init(test_cases, sizes, test = False):
 
     results = [numpy_res, cupy_res]
 
-    plot("Matrix init", "Matrix Size", "Time in seconds", results, "array_init.png")
+    plot("Matrix init", "Matrix Size", "Time in ms", results, "array_init_time.png")
+
+    numpy_troughput = [size / time for size, time in zip(numpy_size, numpy_time)]
+    cupy_troughput = [size / time for size, time in zip(cupy_size, cupy_time)]
+
+    plot("Matrix init", "Matrix Size", "Troughput in datasize/ms", [("numpy", numpy_size, numpy_troughput), ("cupy", cupy_size, cupy_troughput)], "array_init_troughput.png")
 
 def run_numpy_test(test_cases, sizes):
     numpy_size, numpy_time = np_array_init(test_cases, sizes)
@@ -25,4 +30,7 @@ def run_numpy_test(test_cases, sizes):
     
     results = [numpy_res]
     
-    plot("Matrix init", "Matrix Size", "Time in seconds", results, "array_init.png")
+    plot("Matrix init", "Matrix Size", "Time in ms", results, "array_init_time.png")
+
+    numpy_troughput = [size / time for size, time in zip(numpy_size, numpy_time)]
+    plot("Matrix init", "Matrix Size", "Troughput in datasize/ms", [("numpy", numpy_size, numpy_troughput)], "array_init_troughput.png")

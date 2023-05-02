@@ -24,7 +24,7 @@ def run_tests(test_cases, sizes):
             cp.cuda.Stream.null.synchronize()
             end = time.time()
             
-            diff = end - start
+            diff = (end - start)*1000 # convert to milliseconds
             
             results.append(diff)
 

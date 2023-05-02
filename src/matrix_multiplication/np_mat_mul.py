@@ -20,7 +20,7 @@ def run_tests(test_cases, sizes):
             x.size
             end = time.time()
             
-            diff = end - start
+            diff = (end - start)*1000 # convert to milliseconds
             
             results.append(diff)
 

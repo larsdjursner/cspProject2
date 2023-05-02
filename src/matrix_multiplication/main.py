@@ -17,7 +17,12 @@ def matmul(test_cases, sizes, test = False):
 
     results = [numpy_res, cupy_res]
 
-    plot("Matrix multiplication", "Matrix Size", "Time in seconds", results, "matmul.png")
+    plot("Matrix multiplication", "Matrix Size", "Time in ms", results, "matmul_time.png")
+
+    numpy_troughput = [size / time for size, time in zip(numpy_size, numpy_time)]
+    cupy_troughput = [size / time for size, time in zip(cupy_size, cupy_time)]
+
+    plot("Matrix multiplication", "Matrix Size", "Troughput in datasize/ms", [("numpy", numpy_size, numpy_troughput), ("cupy", cupy_size, cupy_troughput)], "matmul_troughput.png")
 
 def run_numpy_test(test_cases, sizes):
     numpy_size, numpy_time = np_mat_mul(test_cases, sizes)
@@ -25,4 +30,8 @@ def run_numpy_test(test_cases, sizes):
 
     results = [numpy_res]
     
-    plot("Matrix multiplication", "Matrix Size", "Time in seconds", results, "matmul.png")
+    plot("Matrix multiplication", "Matrix Size", "Time in ms", results, "matmul_time.png")
+
+    numpy_troughput = [size / time for size, time in zip(numpy_size, numpy_time)]
+    
+    plot("Matrix multiplication", "Matrix Size", "Troughput in datasize/ms", [("numpy", numpy_size, numpy_troughput)], "matmul_troughput.png")

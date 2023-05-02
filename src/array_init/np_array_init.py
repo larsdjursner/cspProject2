@@ -13,7 +13,8 @@ def run_tests(test_cases, sizes):
             x = np.ones(shape=(size, size))
             x.size
             end = time.time()
-            results.append(end - start)
+            diff = (end - start)*1000 # convert to milliseconds
+            results.append(diff)
 
         average = np.mean(results)
         numpy_results.append((size*size, average))
