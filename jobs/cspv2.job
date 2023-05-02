@@ -4,21 +4,26 @@
 #SBATCH --output=multjob.%j.txt          
 #SBATCH --gres=gpu                   
 #SBATCH --time=01:00:00              
-#SBATCH --partition=brown
-
+#SBATCH --partition=brown,short
 
 echo "Running on $(hostname):"
 
-# monitoring tools
-echo "start monitoring tools"
+echo "Creating directory for data"
+foldername="run-"$(date +%s)
+cd ../data/
+mkdir -p $foldername
+cd ./$foldername
+
+echo "Starting monitoring tools"
 top -i -b > top-log.txt &
 #nvidia-smi dmon > nvsmi.txt &
 nvidia-smi dmon > nvidia-smi-log.txt & 
 
-echo "setup conda environment for GPU job"
+echo "Setting up conda environment for Cupy and Numpy"
 echo "Running on $(hostname):"
 module load Anaconda3
 eval "$(conda shell.bash hook)"
-source activate csp_numpy_cupy
-echo "run cupy and numpy job"
-python3 ../src/main.py
+source activate cusp
+
+echo "Run main.py"
+python3 ../../src/main.py
