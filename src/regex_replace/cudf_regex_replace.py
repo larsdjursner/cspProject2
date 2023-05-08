@@ -4,8 +4,11 @@ import numpy as np
 import os
 import glob
 
+
 def run_tests(test_cases):
-    path = "/home/tovs/cspProject2/src/texts" 
+    dir = os.path.dirname(__file__)
+    path = os.path.join(dir, '../texts/')
+
     file_extension = "*.csv"
     cudf_results = []
     for file_name in glob.glob(os.path.join(path, file_extension)):
@@ -20,14 +23,14 @@ def run_tests(test_cases):
 
             start.record()
 
-            desc = df['Description'].str.replace(pattern, "awesome", regex=True)
+            desc = df['Description'].str.replace(
+                pattern, "awesome", regex=True)
             title = df['Title'].str.replace(pattern, "awesome", regex=True)
-
 
             end.record()
             end.synchronize()
 
-            diff = cp.cuda.get_elapsed_time(start, end)  
+            diff = cp.cuda.get_elapsed_time(start, end)
 
             total = desc.sum() + title.sum()
 
@@ -36,11 +39,13 @@ def run_tests(test_cases):
             total = None
 
             cp.get_default_memory_pool().free_all_blocks()
-    
+
         average = np.mean(results)
-        cudf_results.append((os.path.getsize(os.path.join(path, file_name)),average))
+        cudf_results.append(
+            (os.path.getsize(os.path.join(path, file_name)), average))
 
     return cudf_results
+
 
 def cudf_regex_replace(test_cases):
     cudf_results = run_tests(test_cases)
@@ -48,5 +53,6 @@ def cudf_regex_replace(test_cases):
 
     return (cudf_size, cudf_time)
 
-if __name__ == "__main__":
-    print(cudf_regex_replace(1))
+
+# if __name__ == "__main__":
+#     print(cudf_regex_replace(1))

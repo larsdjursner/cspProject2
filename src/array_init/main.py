@@ -21,5 +21,8 @@ def array_init(test_cases, sizes):
                        time in zip(numpy_size, numpy_time)]
     cupy_troughput = [size / time for size, time in zip(cupy_size, cupy_time)]
 
+    tp_results = [("numpy", numpy_size, numpy_troughput),
+                  ("cupy", cupy_size, cupy_troughput)]
+
     plot("Matrix init", "Matrix Size", "Troughput in datasize/ms",
-         [("numpy", numpy_size, numpy_troughput), ("cupy", cupy_size, cupy_troughput)], "array_init_troughput.png")
+         tp_results, "array_init_troughput.png", base=2, isThroughput=True)
