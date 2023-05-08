@@ -10,8 +10,6 @@ def run_tests(test_cases, sizes):
         results = []
 
         for _ in range(test_cases):
-            start = time.time()
-
             start = cp.cuda.Event()
             end = cp.cuda.Event()
 

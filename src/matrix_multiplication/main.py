@@ -1,4 +1,4 @@
-import matplotlib.pyplot as plt
+
 from matrix_multiplication.np_mat_mul import np_mat_mul
 from utils import plot
 
