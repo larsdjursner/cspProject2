@@ -2,11 +2,8 @@ import matplotlib.pyplot as plt
 from array_init.np_array_init import np_array_init
 from utils import plot
 
-def array_init(test_cases, sizes, test = False):
-    if test:
-        run_numpy_test(test_cases, sizes)
-        return
 
+def array_init(test_cases, sizes):
     from array_init.cp_array_init import cp_array_init
 
     numpy_size, numpy_time = np_array_init(test_cases, sizes)
@@ -17,20 +14,12 @@ def array_init(test_cases, sizes, test = False):
 
     results = [numpy_res, cupy_res]
 
-    plot("Matrix init", "Matrix Size", "Time in ms", results, "array_init_time.png")
+    plot("Matrix init", "Matrix Size", "Time in ms",
+         results, "array_init_time.png")
 
-    numpy_troughput = [size / time for size, time in zip(numpy_size, numpy_time)]
+    numpy_troughput = [size / time for size,
+                       time in zip(numpy_size, numpy_time)]
     cupy_troughput = [size / time for size, time in zip(cupy_size, cupy_time)]
 
-    plot("Matrix init", "Matrix Size", "Troughput in datasize/ms", [("numpy", numpy_size, numpy_troughput), ("cupy", cupy_size, cupy_troughput)], "array_init_troughput.png")
-
-def run_numpy_test(test_cases, sizes):
-    numpy_size, numpy_time = np_array_init(test_cases, sizes)
-    numpy_res = ("numpy", numpy_size, numpy_time)
-    
-    results = [numpy_res]
-    
-    plot("Matrix init", "Matrix Size", "Time in ms", results, "array_init_time.png")
-
-    numpy_troughput = [size / time for size, time in zip(numpy_size, numpy_time)]
-    plot("Matrix init", "Matrix Size", "Troughput in datasize/ms", [("numpy", numpy_size, numpy_troughput)], "array_init_troughput.png")
+    plot("Matrix init", "Matrix Size", "Troughput in datasize/ms",
+         [("numpy", numpy_size, numpy_troughput), ("cupy", cupy_size, cupy_troughput)], "array_init_troughput.png")
