@@ -1,0 +1,2514 @@
+top - 12:34:34 up 59 days, 21:32,  0 users,  load average: 1.36, 2.74, 2.27
+Tasks: 180 total,   2 running, 178 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.3 us, 13.8 sy,  0.0 ni, 81.3 id,  1.6 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 31158936 free,   423748 used,   944684 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 30973720 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31503 ladr      20   0   30428  13368    940 R  93.8  0.0   0:00.15 nvidia-smi
+31505 ladr      20   0   44520   5392   1500 D  43.8  0.0   0:00.07 lmod
+
+top - 12:34:37 up 59 days, 21:32,  0 users,  load average: 1.36, 2.74, 2.27
+Tasks: 180 total,   1 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  4.1 us,  3.9 sy,  0.0 ni, 88.4 id,  3.6 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 30979220 free,   458532 used,  1089616 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 30884844 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0 1186628  46708  10704 D  31.3  0.1   0:00.94 python3
+31503 ladr      20   0  177900  13464   1028 S  11.3  0.0   0:00.49 nvidia-smi
+22733 root       0 -20       0      0      0 S   4.3  0.0   0:52.82 kworker/6:+
+30330 root      20   0       0      0      0 S   1.3  0.0   0:00.25 kworker/u1+
+31467 root      20   0       0      0      0 S   0.7  0.0   0:00.03 kworker/u1+
+    9 root      20   0       0      0      0 S   0.3  0.0  10:27.39 rcu_sched
+24720 root      20   0       0      0      0 S   0.3  0.0   0:03.01 kworker/2:2
+
+top - 12:34:40 up 59 days, 21:32,  0 users,  load average: 1.33, 2.71, 2.26
+Tasks: 182 total,   1 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.8 us,  1.2 sy,  0.0 ni, 88.1 id,  9.8 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 30632076 free,   525688 used,  1369604 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 30816648 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0 6661356 112536  32592 D   9.6  0.3   0:01.23 python3
+22733 root       0 -20       0      0      0 S   7.0  0.0   0:53.03 kworker/6:+
+30330 root      20   0       0      0      0 S   0.7  0.0   0:00.27 kworker/u1+
+11142 root      20   0       0      0      0 S   0.3  0.0   0:03.74 kworker/1:0
+24720 root      20   0       0      0      0 S   0.3  0.0   0:03.02 kworker/2:2
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.01 top
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:00.50 nvidia-smi
+
+top - 12:34:43 up 59 days, 21:32,  0 users,  load average: 1.30, 2.68, 2.26
+Tasks: 182 total,   1 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.4 us,  1.1 sy,  0.0 ni, 91.9 id,  6.6 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 30341624 free,   537960 used,  1647784 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 30804072 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+22733 root       0 -20       0      0      0 S   7.7  0.0   0:53.26 kworker/6:+
+31533 ladr      20   0 7503316 134300  42984 D   5.3  0.4   0:01.39 python3
+15771 root      20   0       0      0      0 S   0.3  0.0   0:04.58 kworker/3:1
+30330 root      20   0       0      0      0 S   0.3  0.0   0:00.28 kworker/u1+
+31467 root      20   0       0      0      0 S   0.3  0.0   0:00.04 kworker/u1+
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:00.51 nvidia-smi
+
+top - 12:34:46 up 59 days, 21:32,  0 users,  load average: 1.30, 2.68, 2.26
+Tasks: 182 total,   1 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.2 us,  1.0 sy,  0.0 ni, 89.9 id,  7.9 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 30082648 free,   574540 used,  1870180 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 30766604 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0 8213028 200964  73928 D  12.3  0.6   0:01.76 python3
+22733 root       0 -20       0      0      0 S   6.0  0.0   0:53.44 kworker/6:+
+31465 root      20   0       0      0      0 S   1.3  0.0   0:00.04 kworker/u1+
+ 1878 root      20   0   21604   1252    988 S   0.3  0.0   7:39.15 irqbalance
+11142 root      20   0       0      0      0 S   0.3  0.0   0:03.75 kworker/1:0
+25676 root      20   0       0      0      0 S   0.3  0.0   0:01.20 kworker/5:2
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:00.52 nvidia-smi
+
+top - 12:34:49 up 59 days, 21:32,  0 users,  load average: 1.84, 2.77, 2.29
+Tasks: 182 total,   1 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.5 us,  3.1 sy,  0.0 ni, 87.2 id,  6.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 29772176 free,   685804 used,  2069388 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 30644916 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0 8880656 339456 180716 D  18.3  1.0   0:02.31 python3
+22733 root       0 -20       0      0      0 S   5.0  0.0   0:53.59 kworker/6:+
+31465 root      20   0       0      0      0 S   0.7  0.0   0:00.06 kworker/u1+
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:00.54 nvidia-smi
+15771 root      20   0       0      0      0 S   0.3  0.0   0:04.59 kworker/3:1
+24720 root      20   0       0      0      0 S   0.3  0.0   0:03.03 kworker/2:2
+31467 root      20   0       0      0      0 S   0.3  0.0   0:00.05 kworker/u1+
+31508 root      20   0       0      0      0 S   0.3  0.0   0:00.01 nv_queue
+
+top - 12:34:52 up 59 days, 21:32,  0 users,  load average: 1.84, 2.77, 2.29
+Tasks: 182 total,   1 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.1 us,  1.2 sy,  0.0 ni, 86.6 id, 11.2 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 29130744 free,  1035528 used,  2361096 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 30294588 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0 9391736 726260 220540 D  12.0  2.2   0:02.67 python3
+22733 root       0 -20       0      0      0 S   7.7  0.0   0:53.82 kworker/6:+
+ 2186 root      20   0  245236  12456   7400 S   0.3  0.0  45:10.01 snmpd
+21764 root      20   0       0      0      0 S   0.3  0.0   0:00.16 kworker/0:1
+24720 root      20   0       0      0      0 S   0.3  0.0   0:03.04 kworker/2:2
+31465 root      20   0       0      0      0 S   0.3  0.0   0:00.07 kworker/u1+
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:00.55 nvidia-smi
+
+top - 12:34:55 up 59 days, 21:32,  0 users,  load average: 1.77, 2.74, 2.28
+Tasks: 182 total,   2 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.8 us,  5.4 sy,  0.0 ni, 81.6 id,  3.1 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 28620424 free,  1486812 used,  2420132 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29843288 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0    9.8g   1.2g 281588 R 119.9  3.8   0:06.28 python3
+22733 root       0 -20       0      0      0 S   1.3  0.0   0:53.86 kworker/6:+
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:00.58 nvidia-smi
+31467 root      20   0       0      0      0 S   0.3  0.0   0:00.06 kworker/u1+
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.02 top
+
+top - 12:34:58 up 59 days, 21:32,  0 users,  load average: 2.03, 2.78, 2.29
+Tasks: 182 total,   2 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 63.1 us, 25.7 sy,  0.0 ni, 11.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 28208960 free,  1898276 used,  2420132 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29431828 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.2g   1.6g 281588 R 710.7  5.1   0:27.60 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:00.59 nvidia-smi
+
+top - 12:35:01 up 59 days, 21:32,  0 users,  load average: 2.03, 2.78, 2.29
+Tasks: 182 total,   2 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 81.1 us,  8.4 sy,  0.0 ni, 10.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 28112144 free,  1995092 used,  2420132 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29335012 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.3g   1.7g 281588 R 714.6  5.4   0:49.11 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:00.62 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.03 top
+
+top - 12:35:04 up 59 days, 21:32,  0 users,  load average: 2.51, 2.86, 2.32
+Tasks: 182 total,   2 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 81.4 us,  8.1 sy,  0.0 ni, 10.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 28111648 free,  1995584 used,  2420136 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29334520 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.3g   1.7g 281588 R 713.6  5.4   1:10.59 python3
+31503 ladr      20   0  177900  13464   1028 S   1.3  0.0   0:00.66 nvidia-smi
+    9 root      20   0       0      0      0 S   0.3  0.0  10:27.40 rcu_sched
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.04 top
+
+top - 12:35:07 up 59 days, 21:32,  0 users,  load average: 2.51, 2.86, 2.32
+Tasks: 182 total,   2 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 80.5 us,  8.8 sy,  0.0 ni, 10.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 28111276 free,  1995956 used,  2420136 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29334148 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.3g   1.7g 281588 R 712.6  5.4   1:32.04 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:00.69 nvidia-smi
+
+top - 12:35:10 up 59 days, 21:32,  0 users,  load average: 2.95, 2.95, 2.35
+Tasks: 182 total,   2 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 81.3 us,  8.1 sy,  0.0 ni, 10.5 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 28111772 free,  1995460 used,  2420136 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29334644 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.3g   1.7g 281588 R 716.3  5.4   1:53.53 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:00.72 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.05 top
+
+top - 12:35:13 up 59 days, 21:33,  0 users,  load average: 2.79, 2.92, 2.35
+Tasks: 182 total,   2 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 62.1 us,  7.2 sy,  0.0 ni, 27.5 id,  3.2 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 28512620 free,  1501284 used,  2513464 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29826716 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0    9.8g   1.2g 289440 R 548.5  3.9   2:10.04 python3
+22733 root       0 -20       0      0      0 S   2.3  0.0   0:53.93 kworker/6:+
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:00.74 nvidia-smi
+11142 root      20   0       0      0      0 S   0.3  0.0   0:03.76 kworker/1:0
+31465 root      20   0       0      0      0 S   0.3  0.0   0:00.08 kworker/u1+
+31508 root      20   0       0      0      0 S   0.3  0.0   0:00.02 nv_queue
+
+top - 12:35:16 up 59 days, 21:33,  0 users,  load average: 2.79, 2.92, 2.35
+Tasks: 182 total,   2 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  3.1 us,  1.3 sy,  0.0 ni, 87.0 id,  8.6 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27748628 free,  1991684 used,  2787056 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29293060 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.6g   1.8g 384096 R  31.9  5.7   2:11.00 python3
+22733 root       0 -20       0      0      0 S   4.3  0.0   0:54.06 kworker/6:+
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:00.76 nvidia-smi
+21764 root      20   0       0      0      0 S   0.3  0.0   0:00.17 kworker/0:1
+30330 root      20   0       0      0      0 S   0.3  0.0   0:00.29 kworker/u1+
+31467 root      20   0       0      0      0 S   0.3  0.0   0:00.07 kworker/u1+
+
+top - 12:35:19 up 59 days, 21:33,  0 users,  load average: 2.65, 2.89, 2.34
+Tasks: 182 total,   2 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.9 us,  3.0 sy,  0.0 ni, 87.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27486124 free,  2122888 used,  2918356 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29030708 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.8g   2.0g 515168 R 100.0  6.5   2:14.00 python3
+31503 ladr      20   0  177900  13464   1028 S   2.0  0.0   0:00.82 nvidia-smi
+31506 root     -51   0       0      0      0 S   0.7  0.0   0:00.02 irq/31-nvi+
+ 2193 root      20   0  584496  19640   6132 S   0.3  0.1   9:50.59 tuned
+
+top - 12:35:22 up 59 days, 21:33,  0 users,  load average: 2.65, 2.89, 2.34
+Tasks: 182 total,   2 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.5 us,  3.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27588524 free,  2020488 used,  2918356 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29133108 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.8g   1.9g 515168 R 100.0  6.2   2:17.01 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:00.84 nvidia-smi
+ 2186 root      20   0  245236  12456   7400 S   0.3  0.0  45:10.02 snmpd
+
+top - 12:35:25 up 59 days, 21:33,  0 users,  load average: 2.52, 2.85, 2.33
+Tasks: 182 total,   2 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.6 us,  3.0 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27615148 free,  1993864 used,  2918356 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29159732 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.6g   1.9g 515168 R 100.3  6.1   2:20.02 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:00.86 nvidia-smi
+
+top - 12:35:28 up 59 days, 21:33,  0 users,  load average: 2.40, 2.82, 2.33
+Tasks: 182 total,   2 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.8 us,  2.6 sy,  0.0 ni, 87.5 id,  1.1 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27565468 free,  2012432 used,  2949468 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29141020 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.6g   1.9g 517024 R  90.0  6.1   2:22.73 python3
+22733 root       0 -20       0      0      0 S   0.7  0.0   0:54.08 kworker/6:+
+21764 root      20   0       0      0      0 S   0.3  0.0   0:00.18 kworker/0:1
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.06 top
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:00.87 nvidia-smi
+
+top - 12:35:31 up 59 days, 21:33,  0 users,  load average: 2.40, 2.82, 2.33
+Tasks: 182 total,   3 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.9 us,  0.2 sy,  0.0 ni, 86.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27559548 free,  2016544 used,  2951276 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29136668 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.6g   1.9g 517040 R 100.3  6.1   2:25.74 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:00.88 nvidia-smi
+
+top - 12:35:34 up 59 days, 21:33,  0 users,  load average: 2.28, 2.79, 2.32
+Tasks: 182 total,   2 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  9.8 us,  2.4 sy,  0.0 ni, 87.5 id,  0.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27583408 free,  1992276 used,  2951684 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29161000 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R  97.3  6.1   2:28.67 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:00.90 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.07 top
+
+top - 12:35:37 up 59 days, 21:33,  0 users,  load average: 2.28, 2.79, 2.32
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.8 us,  4.3 sy,  0.0 ni, 86.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27572308 free,  1995324 used,  2959736 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29157332 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.1   2:31.69 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:00.92 nvidia-smi
+
+top - 12:35:40 up 59 days, 21:33,  0 users,  load average: 2.18, 2.76, 2.31
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.9 us,  4.0 sy,  0.0 ni, 87.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27551444 free,  2014520 used,  2961404 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29138584 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.1   2:34.71 python3
+ 2186 root      20   0  245236  12456   7400 S   1.0  0.0  45:10.05 snmpd
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:00.93 nvidia-smi
+31506 root     -51   0       0      0      0 S   0.3  0.0   0:00.03 irq/31-nvi+
+
+top - 12:35:43 up 59 days, 21:33,  0 users,  load average: 2.09, 2.73, 2.30
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  8.7 us,  3.9 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27551444 free,  2014520 used,  2961404 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29138584 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.1   2:37.73 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:00.96 nvidia-smi
+
+top - 12:35:46 up 59 days, 21:33,  0 users,  load average: 2.09, 2.73, 2.30
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 11.1 us,  1.5 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27525956 free,  2040008 used,  2961404 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113096 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   2:40.75 python3
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.08 top
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:00.97 nvidia-smi
+
+top - 12:35:49 up 59 days, 21:33,  0 users,  load average: 2.00, 2.71, 2.30
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27526052 free,  2039644 used,  2961672 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113464 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   2:43.79 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:00.99 nvidia-smi
+ 2179 root      20   0   16336   1228   1064 S   0.3  0.0   7:21.66 lldpad
+31506 root     -51   0       0      0      0 S   0.3  0.0   0:00.04 irq/31-nvi+
+31508 root      20   0       0      0      0 S   0.3  0.0   0:00.03 nv_queue
+
+top - 12:35:52 up 59 days, 21:33,  0 users,  load average: 2.00, 2.71, 2.30
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27526040 free,  2039180 used,  2962148 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29114052 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   2:46.82 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:01.00 nvidia-smi
+
+top - 12:35:55 up 59 days, 21:33,  0 users,  load average: 1.92, 2.68, 2.29
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27526040 free,  2039176 used,  2962152 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29114052 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   2:49.84 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:01.03 nvidia-smi
+
+top - 12:35:58 up 59 days, 21:33,  0 users,  load average: 1.85, 2.65, 2.28
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27526040 free,  2039176 used,  2962152 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29114052 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   2:52.86 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.05 nvidia-smi
+
+top - 12:36:01 up 59 days, 21:33,  0 users,  load average: 1.85, 2.65, 2.28
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27525796 free,  2039420 used,  2962152 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113808 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   2:55.89 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.07 nvidia-smi
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.15 khugepaged
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.09 top
+
+top - 12:36:04 up 59 days, 21:33,  0 users,  load average: 1.78, 2.62, 2.28
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27526004 free,  2039212 used,  2962152 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29114020 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   2:58.91 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:01.10 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.10 top
+
+top - 12:36:07 up 59 days, 21:33,  0 users,  load average: 1.78, 2.62, 2.28
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27525812 free,  2039404 used,  2962152 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113828 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   3:01.94 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.12 nvidia-smi
+
+top - 12:36:10 up 59 days, 21:33,  0 users,  load average: 1.72, 2.60, 2.27
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27525812 free,  2039404 used,  2962152 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113828 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   3:04.96 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.14 nvidia-smi
+ 2186 root      20   0  245236  12456   7400 S   0.3  0.0  45:10.06 snmpd
+
+top - 12:36:13 up 59 days, 21:34,  0 users,  load average: 1.66, 2.57, 2.26
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27525856 free,  2039360 used,  2962152 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113872 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   3:07.98 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.16 nvidia-smi
+31506 root     -51   0       0      0      0 S   0.7  0.0   0:00.06 irq/31-nvi+
+
+top - 12:36:16 up 59 days, 21:34,  0 users,  load average: 1.66, 2.57, 2.26
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.3 sy,  0.0 ni, 87.1 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27503992 free,  2061220 used,  2962156 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29092008 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.3   3:11.01 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.18 nvidia-smi
+22733 root       0 -20       0      0      0 S   0.3  0.0   0:54.09 kworker/6:+
+31508 root      20   0       0      0      0 S   0.3  0.0   0:00.04 nv_queue
+
+top - 12:36:19 up 59 days, 21:34,  0 users,  load average: 1.61, 2.54, 2.26
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27502772 free,  2062440 used,  2962156 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29090792 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.3   3:14.04 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:01.21 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.11 top
+
+top - 12:36:22 up 59 days, 21:34,  0 users,  load average: 1.61, 2.54, 2.26
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27501188 free,  2064024 used,  2962156 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29089208 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.3   3:17.07 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.23 nvidia-smi
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.16 khugepaged
+
+top - 12:36:25 up 59 days, 21:34,  0 users,  load average: 1.56, 2.52, 2.25
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27499700 free,  2065512 used,  2962156 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29087720 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.3   3:20.10 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.25 nvidia-smi
+
+top - 12:36:28 up 59 days, 21:34,  0 users,  load average: 1.51, 2.49, 2.24
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27499708 free,  2065504 used,  2962156 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29087728 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.3   3:23.12 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.27 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.12 top
+
+top - 12:36:31 up 59 days, 21:34,  0 users,  load average: 1.51, 2.49, 2.24
+Tasks: 183 total,   3 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27499416 free,  2065788 used,  2962164 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29087436 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.3   3:26.14 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:01.28 nvidia-smi
+
+top - 12:36:34 up 59 days, 21:34,  0 users,  load average: 1.47, 2.47, 2.24
+Tasks: 183 total,   3 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27536592 free,  2028612 used,  2962164 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29124616 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   3:29.18 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:01.31 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.13 top
+31506 root     -51   0       0      0      0 S   0.3  0.0   0:00.07 irq/31-nvi+
+
+top - 12:36:37 up 59 days, 21:34,  0 users,  load average: 1.47, 2.47, 2.24
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27532816 free,  2032388 used,  2962164 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29120844 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   3:32.21 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.33 nvidia-smi
+
+top - 12:36:40 up 59 days, 21:34,  0 users,  load average: 1.43, 2.44, 2.23
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27531576 free,  2033628 used,  2962164 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29119604 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   3:35.23 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:01.34 nvidia-smi
+
+top - 12:36:43 up 59 days, 21:34,  0 users,  load average: 1.40, 2.42, 2.22
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27531004 free,  2034200 used,  2962164 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29119032 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   3:38.25 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.36 nvidia-smi
+
+top - 12:36:46 up 59 days, 21:34,  0 users,  load average: 1.40, 2.42, 2.22
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27530020 free,  2035184 used,  2962164 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29118048 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   3:41.28 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.38 nvidia-smi
+
+top - 12:36:49 up 59 days, 21:34,  0 users,  load average: 1.37, 2.40, 2.22
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27529152 free,  2036048 used,  2962168 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29117184 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   3:44.30 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.40 nvidia-smi
+ 1945 root      20   0  290680  32076  29880 S   0.3  0.1   2:21.36 sssd_nss
+ 2186 root      20   0  245236  12456   7400 S   0.3  0.0  45:10.07 snmpd
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.14 top
+
+top - 12:36:52 up 59 days, 21:34,  0 users,  load average: 1.37, 2.40, 2.22
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27528332 free,  2036868 used,  2962168 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29116364 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   3:47.32 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.42 nvidia-smi
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.17 khugepaged
+
+top - 12:36:55 up 59 days, 21:34,  0 users,  load average: 1.34, 2.37, 2.21
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27527960 free,  2037240 used,  2962168 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29115992 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   3:50.35 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.44 nvidia-smi
+    9 root      20   0       0      0      0 S   0.3  0.0  10:27.41 rcu_sched
+
+top - 12:36:58 up 59 days, 21:34,  0 users,  load average: 1.31, 2.35, 2.20
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27527216 free,  2037984 used,  2962168 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29115248 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   3:53.37 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:01.47 nvidia-smi
+ 1878 root      20   0   21604   1252    988 S   0.3  0.0   7:39.16 irqbalance
+
+top - 12:37:01 up 59 days, 21:34,  0 users,  load average: 1.31, 2.35, 2.20
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27505112 free,  2060088 used,  2962168 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29093144 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.3   3:56.40 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.49 nvidia-smi
+
+top - 12:37:04 up 59 days, 21:34,  0 users,  load average: 1.29, 2.33, 2.20
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27503252 free,  2061948 used,  2962168 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29091284 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.3   3:59.43 python3
+31486 root      20   0  247804   4312   3228 S   0.3  0.0   0:00.03 slurmstepd
+31493 root      20   0  248080   4696   3336 S   0.3  0.0   0:00.02 slurmstepd
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.15 top
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:01.50 nvidia-smi
+
+top - 12:37:07 up 59 days, 21:34,  0 users,  load average: 1.29, 2.33, 2.20
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27502260 free,  2062936 used,  2962172 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29090296 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.3   4:02.46 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:01.53 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.16 top
+
+top - 12:37:10 up 59 days, 21:34,  0 users,  load average: 1.26, 2.31, 2.19
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27500772 free,  2064424 used,  2962172 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29088808 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.3   4:05.49 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:01.56 nvidia-smi
+31508 root      20   0       0      0      0 S   0.3  0.0   0:00.05 nv_queue
+
+top - 12:37:13 up 59 days, 21:35,  0 users,  load average: 1.24, 2.28, 2.18
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27499396 free,  2065800 used,  2962172 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29087432 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.3   4:08.52 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.58 nvidia-smi
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.18 khugepaged
+31506 root     -51   0       0      0      0 S   0.3  0.0   0:00.08 irq/31-nvi+
+
+top - 12:37:16 up 59 days, 21:35,  0 users,  load average: 1.24, 2.28, 2.18
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27499428 free,  2065768 used,  2962172 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29087464 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.3   4:11.54 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:01.59 nvidia-smi
+
+top - 12:37:19 up 59 days, 21:35,  0 users,  load average: 1.22, 2.26, 2.18
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27499428 free,  2065768 used,  2962172 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29087464 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.3   4:14.57 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.61 nvidia-smi
+ 2186 root      20   0  245236  12456   7400 S   0.3  0.0  45:10.08 snmpd
+
+top - 12:37:22 up 59 days, 21:35,  0 users,  load average: 1.22, 2.26, 2.18
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27534652 free,  2030544 used,  2962172 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29122688 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   4:17.59 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.63 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.17 top
+
+top - 12:37:25 up 59 days, 21:35,  0 users,  load average: 1.20, 2.24, 2.17
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27530744 free,  2034448 used,  2962176 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29118780 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   4:20.63 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.65 nvidia-smi
+
+top - 12:37:28 up 59 days, 21:35,  0 users,  load average: 1.19, 2.22, 2.16
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27529504 free,  2035684 used,  2962180 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29117540 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.3  6.2   4:23.67 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:01.66 nvidia-smi
+
+top - 12:37:31 up 59 days, 21:35,  0 users,  load average: 1.19, 2.22, 2.16
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27528660 free,  2036528 used,  2962180 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29116700 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.0  6.2   4:26.68 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:01.69 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.18 top
+
+top - 12:37:34 up 59 days, 21:35,  0 users,  load average: 1.17, 2.20, 2.16
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27528036 free,  2037152 used,  2962180 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29116080 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   4:29.71 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:01.70 nvidia-smi
+
+top - 12:37:37 up 59 days, 21:35,  0 users,  load average: 1.17, 2.20, 2.16
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27527292 free,  2037896 used,  2962180 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29115336 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   4:32.74 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:01.73 nvidia-smi
+
+top - 12:37:40 up 59 days, 21:35,  0 users,  load average: 1.16, 2.18, 2.15
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27526548 free,  2038640 used,  2962180 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29114592 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   4:35.77 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.75 nvidia-smi
+30330 root      20   0       0      0      0 S   0.3  0.0   0:00.30 kworker/u1+
+
+top - 12:37:43 up 59 days, 21:35,  0 users,  load average: 1.15, 2.16, 2.15
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27525700 free,  2039488 used,  2962180 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113744 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   4:38.79 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.77 nvidia-smi
+
+top - 12:37:46 up 59 days, 21:35,  0 users,  load average: 1.15, 2.16, 2.15
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27524956 free,  2040232 used,  2962180 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113000 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   4:41.81 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:01.80 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.19 top
+
+top - 12:37:49 up 59 days, 21:35,  0 users,  load average: 1.13, 2.14, 2.14
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27502432 free,  2062756 used,  2962180 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29090476 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.3   4:44.84 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.82 nvidia-smi
+
+top - 12:37:52 up 59 days, 21:35,  0 users,  load average: 1.13, 2.14, 2.14
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27500560 free,  2064628 used,  2962180 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29088604 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.3   4:47.87 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.84 nvidia-smi
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.19 khugepaged
+ 2193 root      20   0  584496  19640   6132 S   0.3  0.1   9:50.60 tuned
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.20 top
+
+top - 12:37:55 up 59 days, 21:35,  0 users,  load average: 1.12, 2.12, 2.13
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27499072 free,  2066116 used,  2962180 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29087116 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.3   4:50.90 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.86 nvidia-smi
+31508 root      20   0       0      0      0 S   0.3  0.0   0:00.06 nv_queue
+
+top - 12:37:58 up 59 days, 21:35,  0 users,  load average: 1.11, 2.10, 2.13
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27497584 free,  2067604 used,  2962180 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29085628 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 100.3  6.3   4:53.92 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.88 nvidia-smi
+
+top - 12:38:01 up 59 days, 21:35,  0 users,  load average: 1.11, 2.10, 2.13
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27496828 free,  2068360 used,  2962180 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29084872 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 101.0  6.3   4:56.95 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:01.91 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.21 top
+
+top - 12:38:04 up 59 days, 21:35,  0 users,  load average: 1.10, 2.09, 2.12
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27497168 free,  2068012 used,  2962188 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29085216 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 100.3  6.3   4:59.97 python3
+ 2186 root      20   0  245236  12456   7400 S   0.3  0.0  45:10.09 snmpd
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:01.92 nvidia-smi
+
+top - 12:38:07 up 59 days, 21:35,  0 users,  load average: 1.10, 2.09, 2.12
+Tasks: 182 total,   2 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27526136 free,  2039044 used,  2962188 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29114188 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   5:03.00 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.94 nvidia-smi
+
+top - 12:38:10 up 59 days, 21:35,  0 users,  load average: 1.10, 2.07, 2.12
+Tasks: 182 total,   2 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27532324 free,  2032856 used,  2962188 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29120376 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   5:06.03 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.96 nvidia-smi
+
+top - 12:38:13 up 59 days, 21:36,  0 users,  load average: 1.09, 2.05, 2.11
+Tasks: 182 total,   2 running, 180 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27530828 free,  2034352 used,  2962188 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29118880 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.3  6.2   5:09.07 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:01.98 nvidia-smi
+ 2201 root      20   0  321132  33732  32176 S   0.3  0.1   4:17.23 rsyslogd
+
+top - 12:38:16 up 59 days, 21:36,  0 users,  load average: 1.09, 2.05, 2.11
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27529888 free,  2035420 used,  2962060 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29117876 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   5:12.10 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.00 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.22 top
+31506 root     -51   0       0      0      0 S   0.3  0.0   0:00.09 irq/31-nvi+
+
+top - 12:38:19 up 59 days, 21:36,  0 users,  load average: 1.08, 2.03, 2.10
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27528772 free,  2036536 used,  2962060 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29116760 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   5:15.11 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.02 nvidia-smi
+ 2186 root      20   0  245236  12456   7400 S   0.3  0.0  45:10.10 snmpd
+ 2193 root      20   0  584496  19640   6132 S   0.3  0.1   9:50.61 tuned
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.23 top
+
+top - 12:38:22 up 59 days, 21:36,  0 users,  load average: 1.08, 2.03, 2.10
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27528024 free,  2037280 used,  2962064 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29116012 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   5:18.14 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.04 nvidia-smi
+
+top - 12:38:25 up 59 days, 21:36,  0 users,  load average: 1.08, 2.02, 2.10
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27527280 free,  2038020 used,  2962068 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29115272 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   5:21.17 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.06 nvidia-smi
+
+top - 12:38:28 up 59 days, 21:36,  0 users,  load average: 1.07, 2.00, 2.09
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27526536 free,  2038764 used,  2962068 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29114528 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.3  6.2   5:24.21 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.08 nvidia-smi
+ 1866 root      20   0  323884  10252   7320 S   0.3  0.0   1:04.93 sssd_be
+
+top - 12:38:31 up 59 days, 21:36,  0 users,  load average: 1.07, 2.00, 2.09
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27526148 free,  2039152 used,  2962068 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29114140 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   5:27.24 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:02.11 nvidia-smi
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.20 khugepaged
+
+top - 12:38:34 up 59 days, 21:36,  0 users,  load average: 1.06, 1.98, 2.09
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27525404 free,  2039896 used,  2962068 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113396 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   5:30.27 python3
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.24 top
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:02.12 nvidia-smi
+
+top - 12:38:37 up 59 days, 21:36,  0 users,  load average: 1.06, 1.98, 2.09
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27503224 free,  2062076 used,  2962068 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29091220 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.3   5:33.29 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:02.15 nvidia-smi
+
+top - 12:38:40 up 59 days, 21:36,  0 users,  load average: 1.06, 1.97, 2.08
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27501788 free,  2063508 used,  2962072 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29089784 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.3   5:36.32 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.17 nvidia-smi
+
+top - 12:38:43 up 59 days, 21:36,  0 users,  load average: 1.05, 1.95, 2.07
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27500300 free,  2064996 used,  2962072 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29088296 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.3  6.3   5:39.36 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:02.20 nvidia-smi
+
+top - 12:38:46 up 59 days, 21:36,  0 users,  load average: 1.05, 1.95, 2.07
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27498812 free,  2066484 used,  2962072 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29086808 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.3   5:42.38 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.22 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.25 top
+
+top - 12:38:49 up 59 days, 21:36,  0 users,  load average: 1.05, 1.93, 2.07
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27498316 free,  2066980 used,  2962072 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29086312 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 101.0  6.3   5:45.41 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:02.23 nvidia-smi
+
+top - 12:38:52 up 59 days, 21:36,  0 users,  load average: 1.05, 1.93, 2.07
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27498176 free,  2067120 used,  2962072 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29086172 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 100.3  6.3   5:48.43 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.25 nvidia-smi
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.21 khugepaged
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.26 top
+
+top - 12:38:55 up 59 days, 21:36,  0 users,  load average: 1.05, 1.92, 2.06
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27534532 free,  2030764 used,  2962072 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29122528 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   5:51.46 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:02.28 nvidia-smi
+
+top - 12:38:58 up 59 days, 21:36,  0 users,  load average: 1.04, 1.90, 2.06
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27531920 free,  2033372 used,  2962076 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29119916 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.3  6.2   5:54.50 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:02.29 nvidia-smi
+
+top - 12:39:01 up 59 days, 21:36,  0 users,  load average: 1.04, 1.90, 2.06
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27530916 free,  2034376 used,  2962076 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29118912 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   5:57.53 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.31 nvidia-smi
+ 2186 root      20   0  245236  12456   7400 S   0.3  0.0  45:10.11 snmpd
+
+top - 12:39:04 up 59 days, 21:36,  0 users,  load average: 1.04, 1.89, 2.05
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27529800 free,  2035492 used,  2962076 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29117796 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   6:00.56 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.33 nvidia-smi
+
+top - 12:39:07 up 59 days, 21:36,  0 users,  load average: 1.04, 1.89, 2.05
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27529056 free,  2036236 used,  2962076 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29117060 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   6:03.58 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.35 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.27 top
+
+top - 12:39:10 up 59 days, 21:36,  0 users,  load average: 1.04, 1.87, 2.05
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27527712 free,  2037580 used,  2962076 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29115716 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.3  6.2   6:06.62 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.37 nvidia-smi
+24808 root      20   0       0      0      0 S   0.3  0.0   0:00.52 kworker/u1+
+
+top - 12:39:13 up 59 days, 21:37,  0 users,  load average: 1.03, 1.86, 2.04
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27527244 free,  2038048 used,  2962076 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29115248 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   6:09.64 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:02.38 nvidia-smi
+
+top - 12:39:16 up 59 days, 21:37,  0 users,  load average: 1.03, 1.86, 2.04
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27526500 free,  2038788 used,  2962080 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29114504 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   6:12.67 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.40 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.28 top
+
+top - 12:39:19 up 59 days, 21:37,  0 users,  load average: 1.03, 1.84, 2.03
+Tasks: 181 total,   2 running, 179 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27525880 free,  2039408 used,  2962080 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113884 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.3  6.2   6:15.71 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:02.43 nvidia-smi
+
+top - 12:39:22 up 59 days, 21:37,  0 users,  load average: 1.03, 1.84, 2.03
+Tasks: 179 total,   3 running, 176 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27525328 free,  2039956 used,  2962084 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113332 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   6:18.74 python3
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.22 khugepaged
+ 2201 root      20   0  321132  33732  32176 S   0.3  0.1   4:17.24 rsyslogd
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.29 top
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:02.44 nvidia-smi
+
+top - 12:39:25 up 59 days, 21:37,  0 users,  load average: 1.03, 1.83, 2.03
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27502576 free,  2062708 used,  2962084 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29090580 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.3   6:21.77 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:02.47 nvidia-smi
+
+top - 12:39:28 up 59 days, 21:37,  0 users,  load average: 1.03, 1.82, 2.02
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27500840 free,  2064444 used,  2962084 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29088844 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.3   6:24.79 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.49 nvidia-smi
+ 1833 root      20   0  280088   5648   4116 S   0.3  0.0   0:07.95 sssd
+
+top - 12:39:31 up 59 days, 21:37,  0 users,  load average: 1.03, 1.82, 2.02
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27499100 free,  2066184 used,  2962084 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29087104 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.3   6:27.82 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:02.52 nvidia-smi
+
+top - 12:39:34 up 59 days, 21:37,  0 users,  load average: 1.02, 1.80, 2.02
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27497792 free,  2067488 used,  2962088 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29085796 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 101.0  6.3   6:30.85 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:02.53 nvidia-smi
+
+top - 12:39:37 up 59 days, 21:37,  0 users,  load average: 1.02, 1.80, 2.02
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27497544 free,  2067736 used,  2962088 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29085556 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 100.7  6.3   6:33.88 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.55 nvidia-smi
+
+top - 12:39:40 up 59 days, 21:37,  0 users,  load average: 1.02, 1.79, 2.01
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27497476 free,  2067804 used,  2962088 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29085488 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 100.7  6.3   6:36.90 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.57 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.30 top
+
+top - 12:39:43 up 59 days, 21:37,  0 users,  load average: 1.02, 1.78, 2.01
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27533828 free,  2031452 used,  2962088 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29121840 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   6:39.92 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.59 nvidia-smi
+
+top - 12:39:46 up 59 days, 21:37,  0 users,  load average: 1.02, 1.78, 2.01
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27530788 free,  2034492 used,  2962088 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29118800 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   6:42.95 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.61 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.31 top
+
+top - 12:39:49 up 59 days, 21:37,  0 users,  load average: 1.02, 1.76, 2.00
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27529672 free,  2035608 used,  2962088 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29117684 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   6:45.98 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.63 nvidia-smi
+
+top - 12:39:52 up 59 days, 21:37,  0 users,  load average: 1.02, 1.76, 2.00
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27528792 free,  2036488 used,  2962088 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29116804 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   6:49.01 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.65 nvidia-smi
+ 2186 root      20   0  245236  12456   7400 S   0.3  0.0  45:10.12 snmpd
+
+top - 12:39:55 up 59 days, 21:37,  0 users,  load average: 1.02, 1.75, 2.00
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27527800 free,  2037480 used,  2962088 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29115812 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   6:52.03 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.67 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.32 top
+
+top - 12:39:58 up 59 days, 21:37,  0 users,  load average: 1.02, 1.74, 1.99
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27527056 free,  2038224 used,  2962088 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29115068 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   6:55.05 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.69 nvidia-smi
+ 2186 root      20   0  245236  12456   7400 S   0.3  0.0  45:10.13 snmpd
+
+top - 12:40:01 up 59 days, 21:37,  0 users,  load average: 1.02, 1.74, 1.99
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27526220 free,  2039060 used,  2962088 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29114232 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   6:58.07 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.71 nvidia-smi
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.23 khugepaged
+
+top - 12:40:04 up 59 days, 21:37,  0 users,  load average: 1.01, 1.73, 1.99
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27525556 free,  2039720 used,  2962092 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113572 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   7:01.10 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.73 nvidia-smi
+
+top - 12:40:07 up 59 days, 21:37,  0 users,  load average: 1.01, 1.73, 1.99
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27524744 free,  2040532 used,  2962092 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29112760 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   7:04.13 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.75 nvidia-smi
+ 1865 root      20   0  278476   5576   4120 S   0.3  0.0   0:37.52 sssd_be
+
+top - 12:40:10 up 59 days, 21:37,  0 users,  load average: 1.01, 1.71, 1.98
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27502500 free,  2062776 used,  2962092 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29090516 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.3   7:07.15 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:02.78 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.33 top
+
+top - 12:40:13 up 59 days, 21:38,  0 users,  load average: 1.01, 1.70, 1.98
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27501012 free,  2064264 used,  2962092 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29089028 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.3   7:10.18 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.80 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.34 top
+31506 root     -51   0       0      0      0 S   0.3  0.0   0:00.10 irq/31-nvi+
+
+top - 12:40:16 up 59 days, 21:38,  0 users,  load average: 1.01, 1.70, 1.98
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27499152 free,  2066124 used,  2962092 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29087168 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.3   7:13.21 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:02.83 nvidia-smi
+
+top - 12:40:19 up 59 days, 21:38,  0 users,  load average: 1.09, 1.71, 1.98
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27497664 free,  2067612 used,  2962092 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29085680 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 100.7  6.3   7:16.24 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.85 nvidia-smi
+
+top - 12:40:22 up 59 days, 21:38,  0 users,  load average: 1.08, 1.70, 1.97
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27496356 free,  2068920 used,  2962092 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29084372 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 101.0  6.3   7:19.27 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.87 nvidia-smi
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.24 khugepaged
+ 2179 root      20   0   16336   1228   1064 S   0.3  0.0   7:21.67 lldpad
+
+top - 12:40:25 up 59 days, 21:38,  0 users,  load average: 1.08, 1.70, 1.97
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27496356 free,  2068920 used,  2962092 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29084372 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 100.7  6.3   7:22.29 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:02.88 nvidia-smi
+
+top - 12:40:28 up 59 days, 21:38,  0 users,  load average: 1.08, 1.68, 1.96
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.9 us,  0.3 sy,  0.0 ni, 86.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27496192 free,  2069076 used,  2962100 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29084212 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 100.3  6.3   7:25.31 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.90 nvidia-smi
+
+top - 12:40:31 up 59 days, 21:38,  0 users,  load average: 1.08, 1.68, 1.96
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27533252 free,  2032012 used,  2962104 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29121272 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   7:28.34 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:02.93 nvidia-smi
+21764 root      20   0       0      0      0 S   0.3  0.0   0:00.19 kworker/0:1
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.35 top
+
+top - 12:40:34 up 59 days, 21:38,  0 users,  load average: 1.07, 1.67, 1.96
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27529884 free,  2035380 used,  2962104 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29117916 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   7:31.37 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.95 nvidia-smi
+    9 root      20   0       0      0      0 S   0.3  0.0  10:27.42 rcu_sched
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.36 top
+
+top - 12:40:37 up 59 days, 21:38,  0 users,  load average: 1.06, 1.66, 1.95
+Tasks: 178 total,   2 running, 176 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27528644 free,  2036620 used,  2962104 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29116676 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   7:34.40 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:02.97 nvidia-smi
+
+top - 12:40:40 up 59 days, 21:38,  0 users,  load average: 1.06, 1.66, 1.95
+Tasks: 178 total,   2 running, 176 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27527296 free,  2037968 used,  2962104 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29115328 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   7:37.42 python3
+ 2186 root      20   0  245236  12456   7400 S   0.3  0.0  45:10.14 snmpd
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:02.98 nvidia-smi
+
+top - 12:40:43 up 59 days, 21:38,  0 users,  load average: 1.06, 1.65, 1.95
+Tasks: 178 total,   2 running, 176 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27526428 free,  2038836 used,  2962104 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29114460 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   7:40.44 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:03.01 nvidia-smi
+
+top - 12:40:46 up 59 days, 21:38,  0 users,  load average: 1.06, 1.65, 1.95
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27525684 free,  2039580 used,  2962104 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113716 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   7:43.47 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.03 nvidia-smi
+
+top - 12:40:49 up 59 days, 21:38,  0 users,  load average: 1.05, 1.64, 1.94
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27525064 free,  2040200 used,  2962104 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113096 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   7:46.49 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.05 nvidia-smi
+ 2193 root      20   0  584496  19640   6132 S   0.3  0.1   9:50.62 tuned
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.37 top
+
+top - 12:40:52 up 59 days, 21:38,  0 users,  load average: 1.05, 1.63, 1.94
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27524604 free,  2040660 used,  2962104 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29112636 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   7:49.52 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.07 nvidia-smi
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.25 khugepaged
+
+top - 12:40:55 up 59 days, 21:38,  0 users,  load average: 1.05, 1.63, 1.94
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27523980 free,  2041276 used,  2962112 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29112016 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   7:52.54 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:03.10 nvidia-smi
+31508 root      20   0       0      0      0 S   0.3  0.0   0:00.07 nv_queue
+
+top - 12:40:58 up 59 days, 21:38,  0 users,  load average: 1.05, 1.62, 1.93
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27523484 free,  2041772 used,  2962112 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29111520 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   7:55.57 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.12 nvidia-smi
+ 2179 root      20   0   16336   1228   1064 S   0.3  0.0   7:21.68 lldpad
+
+top - 12:41:01 up 59 days, 21:38,  0 users,  load average: 1.05, 1.62, 1.93
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27500084 free,  2065172 used,  2962112 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29088124 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.3   7:58.59 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.14 nvidia-smi
+15771 root      20   0       0      0      0 S   0.3  0.0   0:04.60 kworker/3:1
+31506 root     -51   0       0      0      0 S   0.3  0.0   0:00.11 irq/31-nvi+
+
+top - 12:41:04 up 59 days, 21:38,  0 users,  load average: 1.04, 1.61, 1.93
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27498720 free,  2066536 used,  2962112 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29086760 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.3  6.3   8:01.63 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.16 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.38 top
+
+top - 12:41:07 up 59 days, 21:38,  0 users,  load average: 1.04, 1.60, 1.92
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27497108 free,  2068148 used,  2962112 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29085148 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 100.3  6.3   8:04.65 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.18 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.39 top
+
+top - 12:41:10 up 59 days, 21:38,  0 users,  load average: 1.04, 1.60, 1.92
+Tasks: 179 total,   3 running, 176 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27495972 free,  2069284 used,  2962112 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29084012 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 101.0  6.3   8:07.68 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.20 nvidia-smi
+
+top - 12:41:13 up 59 days, 21:39,  0 users,  load average: 1.04, 1.59, 1.92
+Tasks: 179 total,   2 running, 177 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27495972 free,  2069284 used,  2962112 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29084012 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 100.3  6.3   8:10.70 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.22 nvidia-smi
+31508 root      20   0       0      0      0 S   0.3  0.0   0:00.08 nv_queue
+
+top - 12:41:16 up 59 days, 21:39,  0 users,  load average: 1.04, 1.59, 1.92
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27495972 free,  2069284 used,  2962112 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29084012 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 101.0  6.3   8:13.73 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.24 nvidia-smi
+  954 root      20   0       0      0      0 S   0.3  0.0   8:12.14 xfsaild/dm+
+
+top - 12:41:19 up 59 days, 21:39,  0 users,  load average: 1.03, 1.58, 1.91
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27531688 free,  2033568 used,  2962112 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29119728 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   8:16.75 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:03.25 nvidia-smi
+
+top - 12:41:22 up 59 days, 21:39,  0 users,  load average: 1.03, 1.57, 1.91
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27528040 free,  2037216 used,  2962112 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29116080 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   8:19.78 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.27 nvidia-smi
+31486 root      20   0  247804   4312   3228 S   0.3  0.0   0:00.04 slurmstepd
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.40 top
+
+top - 12:41:25 up 59 days, 21:39,  0 users,  load average: 1.03, 1.57, 1.91
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27526924 free,  2038332 used,  2962112 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29114964 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   8:22.80 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.29 nvidia-smi
+
+top - 12:41:28 up 59 days, 21:39,  0 users,  load average: 1.03, 1.56, 1.91
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27525808 free,  2039448 used,  2962112 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113848 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   8:25.82 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.31 nvidia-smi
+
+top - 12:41:31 up 59 days, 21:39,  0 users,  load average: 1.03, 1.56, 1.91
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27524952 free,  2040304 used,  2962112 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29112992 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   8:28.85 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.33 nvidia-smi
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.26 khugepaged
+
+top - 12:41:34 up 59 days, 21:39,  0 users,  load average: 1.03, 1.55, 1.90
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27524764 free,  2040480 used,  2962124 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29112816 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   8:31.88 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.35 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.41 top
+
+top - 12:41:37 up 59 days, 21:39,  0 users,  load average: 1.02, 1.54, 1.90
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27523896 free,  2041348 used,  2962124 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29111948 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   8:34.90 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.37 nvidia-smi
+
+top - 12:41:40 up 59 days, 21:39,  0 users,  load average: 1.02, 1.54, 1.90
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.8 us,  0.5 sy,  0.0 ni, 86.7 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27522932 free,  2042312 used,  2962124 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29110984 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   8:37.92 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:03.40 nvidia-smi
+    1 root      20   0   51856   3980   2580 S   0.3  0.0   1:05.62 systemd
+ 2186 root      20   0  245236  12456   7400 S   0.3  0.0  45:10.15 snmpd
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.42 top
+
+top - 12:41:43 up 59 days, 21:39,  0 users,  load average: 1.02, 1.53, 1.89
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.7 us,  0.3 sy,  0.0 ni, 87.0 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27523196 free,  2042040 used,  2962132 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29111248 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   8:40.94 python3
+ 2186 root      20   0  245236  12456   7400 S   1.3  0.0  45:10.19 snmpd
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.42 nvidia-smi
+
+top - 12:41:46 up 59 days, 21:39,  0 users,  load average: 1.02, 1.53, 1.89
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27501728 free,  2063544 used,  2962096 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29089768 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.3  6.3   8:43.98 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.44 nvidia-smi
+
+top - 12:41:49 up 59 days, 21:39,  0 users,  load average: 1.02, 1.52, 1.89
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27500124 free,  2065148 used,  2962096 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29088164 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.3   8:47.02 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.46 nvidia-smi
+
+top - 12:41:52 up 59 days, 21:39,  0 users,  load average: 1.02, 1.51, 1.88
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27498436 free,  2066836 used,  2962096 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29086476 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 101.3  6.3   8:50.06 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:03.49 nvidia-smi
+
+top - 12:41:55 up 59 days, 21:39,  0 users,  load average: 1.02, 1.51, 1.88
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27496964 free,  2068308 used,  2962096 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29085004 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 101.0  6.3   8:53.10 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.51 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.43 top
+31506 root     -51   0       0      0      0 S   0.3  0.0   0:00.12 irq/31-nvi+
+
+top - 12:41:58 up 59 days, 21:39,  0 users,  load average: 1.02, 1.51, 1.88
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27495972 free,  2069300 used,  2962096 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29084012 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 101.0  6.3   8:56.14 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:03.52 nvidia-smi
+
+top - 12:42:01 up 59 days, 21:39,  0 users,  load average: 1.02, 1.51, 1.88
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27495964 free,  2069308 used,  2962096 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29084004 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 100.7  6.3   8:59.16 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.54 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.44 top
+
+top - 12:42:05 up 59 days, 21:39,  0 users,  load average: 1.02, 1.50, 1.87
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27528588 free,  2036680 used,  2962100 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29116628 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   9:02.18 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.56 nvidia-smi
+
+top - 12:42:08 up 59 days, 21:39,  0 users,  load average: 1.01, 1.49, 1.87
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27533184 free,  2032084 used,  2962100 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29121224 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.3  6.2   9:05.22 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.58 nvidia-smi
+
+top - 12:42:11 up 59 days, 21:39,  0 users,  load average: 1.01, 1.49, 1.87
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27528640 free,  2036628 used,  2962100 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29116680 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   9:08.25 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.60 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.45 top
+
+top - 12:42:14 up 59 days, 21:40,  0 users,  load average: 1.01, 1.48, 1.86
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27528084 free,  2037184 used,  2962100 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29116124 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   9:11.28 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.62 nvidia-smi
+
+top - 12:42:17 up 59 days, 21:40,  0 users,  load average: 1.01, 1.48, 1.86
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27527092 free,  2038172 used,  2962104 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29115132 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.0  6.2   9:14.29 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.64 nvidia-smi
+
+top - 12:42:20 up 59 days, 21:40,  0 users,  load average: 1.01, 1.47, 1.86
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27526348 free,  2038916 used,  2962104 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29114388 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   9:17.32 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:03.67 nvidia-smi
+
+top - 12:42:23 up 59 days, 21:40,  0 users,  load average: 1.01, 1.47, 1.85
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27525156 free,  2040108 used,  2962104 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113196 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   9:20.35 python3
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.27 khugepaged
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.46 top
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:03.68 nvidia-smi
+
+top - 12:42:26 up 59 days, 21:40,  0 users,  load average: 1.01, 1.47, 1.85
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27524412 free,  2040852 used,  2962104 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29112452 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   9:23.37 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:03.71 nvidia-smi
+
+top - 12:42:29 up 59 days, 21:40,  0 users,  load average: 1.01, 1.46, 1.85
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27523792 free,  2041472 used,  2962104 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29111832 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   9:26.40 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.73 nvidia-smi
+
+top - 12:42:32 up 59 days, 21:40,  0 users,  load average: 1.01, 1.46, 1.85
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27523368 free,  2041896 used,  2962104 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29111408 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   9:29.42 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.75 nvidia-smi
+
+top - 12:42:35 up 59 days, 21:40,  0 users,  load average: 1.01, 1.45, 1.84
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27501316 free,  2063944 used,  2962108 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29089360 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.3   9:32.45 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:03.78 nvidia-smi
+
+top - 12:42:38 up 59 days, 21:40,  0 users,  load average: 1.01, 1.44, 1.84
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27499712 free,  2065548 used,  2962108 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29087756 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.3   9:35.48 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.80 nvidia-smi
+ 1878 root      20   0   21604   1252    988 S   0.3  0.0   7:39.17 irqbalance
+
+top - 12:42:41 up 59 days, 21:40,  0 users,  load average: 1.01, 1.44, 1.84
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27498084 free,  2067176 used,  2962108 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29086128 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 101.0  6.3   9:38.51 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:03.83 nvidia-smi
+ 2193 root      20   0  584496  19640   6132 S   0.3  0.1   9:50.63 tuned
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.47 top
+
+top - 12:42:44 up 59 days, 21:40,  0 users,  load average: 1.01, 1.44, 1.83
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27496596 free,  2068664 used,  2962108 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29084640 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 100.7  6.3   9:41.54 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.85 nvidia-smi
+
+top - 12:42:47 up 59 days, 21:40,  0 users,  load average: 1.01, 1.44, 1.83
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27496100 free,  2069160 used,  2962108 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29084144 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 100.3  6.3   9:44.56 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:03.86 nvidia-smi
+
+top - 12:42:50 up 59 days, 21:40,  0 users,  load average: 1.01, 1.43, 1.83
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27496100 free,  2069160 used,  2962108 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29084144 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 101.0  6.3   9:47.59 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.88 nvidia-smi
+ 2186 root      20   0  245236  12456   7400 S   0.3  0.0  45:10.20 snmpd
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.48 top
+
+top - 12:42:53 up 59 days, 21:40,  0 users,  load average: 1.01, 1.42, 1.83
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27531756 free,  2033504 used,  2962108 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29119800 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   9:50.61 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.90 nvidia-smi
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.28 khugepaged
+
+top - 12:42:56 up 59 days, 21:40,  0 users,  load average: 1.01, 1.42, 1.83
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27528424 free,  2036836 used,  2962108 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29116468 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2   9:53.64 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:03.92 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.49 top
+
+top - 12:42:59 up 59 days, 21:40,  0 users,  load average: 1.01, 1.41, 1.82
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27526936 free,  2038324 used,  2962108 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29114980 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2   9:56.67 python3
+ 2186 root      20   0  245236  12456   7400 S   0.3  0.0  45:10.21 snmpd
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:03.93 nvidia-smi
+
+top - 12:43:02 up 59 days, 21:40,  0 users,  load average: 1.01, 1.41, 1.82
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27526212 free,  2039048 used,  2962108 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29114256 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2   9:59.69 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:03.96 nvidia-smi
+
+top - 12:43:05 up 59 days, 21:40,  0 users,  load average: 1.01, 1.41, 1.82
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27525148 free,  2040104 used,  2962116 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113196 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2  10:02.72 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:03.97 nvidia-smi
+
+top - 12:43:08 up 59 days, 21:40,  0 users,  load average: 1.01, 1.40, 1.81
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27524336 free,  2040916 used,  2962116 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29112392 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  10:05.75 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:04.00 nvidia-smi
+
+top - 12:43:11 up 59 days, 21:40,  0 users,  load average: 1.01, 1.40, 1.81
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27523256 free,  2041996 used,  2962116 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29111312 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2  10:08.76 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.02 nvidia-smi
+
+top - 12:43:14 up 59 days, 21:41,  0 users,  load average: 1.00, 1.39, 1.81
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27522636 free,  2042616 used,  2962116 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29110692 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2  10:11.79 python3
+31502 ladr      20   0  172320   2352   1656 R   0.7  0.0   0:00.51 top
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.04 nvidia-smi
+11142 root      20   0       0      0      0 S   0.3  0.0   0:03.77 kworker/1:0
+
+top - 12:43:17 up 59 days, 21:41,  0 users,  load average: 1.00, 1.39, 1.81
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27521892 free,  2043360 used,  2962116 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109948 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2  10:14.81 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:04.07 nvidia-smi
+
+top - 12:43:20 up 59 days, 21:41,  0 users,  load average: 1.00, 1.39, 1.80
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27500300 free,  2064952 used,  2962116 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29088356 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.3  10:17.84 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.09 nvidia-smi
+
+top - 12:43:23 up 59 days, 21:41,  0 users,  load average: 1.00, 1.38, 1.80
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27498744 free,  2066508 used,  2962116 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29086800 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.3  10:20.87 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.11 nvidia-smi
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.29 khugepaged
+
+top - 12:43:26 up 59 days, 21:41,  0 users,  load average: 1.00, 1.38, 1.80
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27497132 free,  2068120 used,  2962116 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29085188 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 101.0  6.3  10:23.91 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.13 nvidia-smi
+
+top - 12:43:29 up 59 days, 21:41,  0 users,  load average: 1.00, 1.37, 1.80
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27495644 free,  2069608 used,  2962116 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29083700 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 101.3  6.3  10:26.95 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:04.16 nvidia-smi
+
+top - 12:43:32 up 59 days, 21:41,  0 users,  load average: 1.00, 1.37, 1.80
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.2 sy,  0.0 ni, 87.2 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27494340 free,  2070912 used,  2962116 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29082396 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 100.7  6.3  10:29.97 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.18 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.52 top
+
+top - 12:43:35 up 59 days, 21:41,  0 users,  load average: 1.00, 1.37, 1.79
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27494640 free,  2070604 used,  2962124 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29082696 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 100.3  6.3  10:32.99 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.19 nvidia-smi
+
+top - 12:43:38 up 59 days, 21:41,  0 users,  load average: 1.00, 1.36, 1.79
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27494448 free,  2070792 used,  2962128 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29082508 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   2.0g 517248 R 101.0  6.3  10:36.02 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.21 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.53 top
+
+top - 12:43:41 up 59 days, 21:41,  0 users,  load average: 1.00, 1.36, 1.79
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27525732 free,  2039508 used,  2962128 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29113792 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  10:39.04 python3
+    9 root      20   0       0      0      0 S   0.3  0.0  10:27.43 rcu_sched
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.30 khugepaged
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.22 nvidia-smi
+
+top - 12:43:44 up 59 days, 21:41,  0 users,  load average: 1.00, 1.36, 1.78
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27523684 free,  2041556 used,  2962128 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29111744 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  10:42.07 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:04.25 nvidia-smi
+
+top - 12:43:47 up 59 days, 21:41,  0 users,  load average: 1.00, 1.36, 1.78
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27523312 free,  2041928 used,  2962128 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29111372 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2  10:45.09 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.26 nvidia-smi
+
+top - 12:43:50 up 59 days, 21:41,  0 users,  load average: 1.00, 1.35, 1.78
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27522940 free,  2042300 used,  2962128 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29111000 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  10:48.11 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.28 nvidia-smi
+
+top - 12:43:53 up 59 days, 21:41,  0 users,  load average: 1.00, 1.34, 1.77
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27524620 free,  2040620 used,  2962128 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29112680 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  10:51.14 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.30 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.54 top
+
+top - 12:43:56 up 59 days, 21:41,  0 users,  load average: 1.00, 1.34, 1.77
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27524620 free,  2040620 used,  2962128 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29112680 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  10:54.16 python3
+ 2186 root      20   0  245236  12456   7400 S   0.3  0.0  45:10.22 snmpd
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.31 nvidia-smi
+31506 root     -51   0       0      0      0 S   0.3  0.0   0:00.13 irq/31-nvi+
+31508 root      20   0       0      0      0 S   0.3  0.0   0:00.09 nv_queue
+
+top - 12:43:59 up 59 days, 21:41,  0 users,  load average: 1.00, 1.34, 1.77
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27524620 free,  2040620 used,  2962128 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29112680 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  10:57.19 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.33 nvidia-smi
+
+top - 12:44:02 up 59 days, 21:41,  0 users,  load average: 1.00, 1.34, 1.77
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27521652 free,  2043588 used,  2962128 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109712 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  11:00.21 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.35 nvidia-smi
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.31 khugepaged
+
+top - 12:44:05 up 59 days, 21:41,  0 users,  load average: 1.00, 1.33, 1.77
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27521956 free,  2043280 used,  2962132 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29110024 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2  11:03.23 python3
+31493 root      20   0  248080   4696   3336 S   0.3  0.0   0:00.03 slurmstepd
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.36 nvidia-smi
+
+top - 12:44:08 up 59 days, 21:41,  0 users,  load average: 1.00, 1.33, 1.76
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27521764 free,  2043472 used,  2962132 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109832 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2  11:06.26 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.38 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.55 top
+
+top - 12:44:11 up 59 days, 21:41,  0 users,  load average: 1.00, 1.33, 1.76
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27521696 free,  2043540 used,  2962132 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109764 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.0  6.2  11:09.27 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.39 nvidia-smi
+
+top - 12:44:14 up 59 days, 21:42,  0 users,  load average: 1.00, 1.32, 1.76
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27523740 free,  2041496 used,  2962132 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29111808 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  11:12.30 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.41 nvidia-smi
+
+top - 12:44:17 up 59 days, 21:42,  0 users,  load average: 1.00, 1.32, 1.76
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27523740 free,  2041496 used,  2962132 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29111808 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2  11:15.33 python3
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.56 top
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.42 nvidia-smi
+
+top - 12:44:20 up 59 days, 21:42,  0 users,  load average: 1.00, 1.32, 1.75
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27523740 free,  2041496 used,  2962132 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29111808 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.0  6.2  11:18.34 python3
+31503 ladr      20   0  177900  13464   1028 S   1.0  0.0   0:04.45 nvidia-smi
+
+top - 12:44:23 up 59 days, 21:42,  0 users,  load average: 1.00, 1.31, 1.75
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27523660 free,  2041576 used,  2962132 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29111728 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.3  6.2  11:21.38 python3
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.32 khugepaged
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.46 nvidia-smi
+
+top - 12:44:26 up 59 days, 21:42,  0 users,  load average: 1.00, 1.31, 1.75
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27521864 free,  2043372 used,  2962132 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109932 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2  11:24.40 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.48 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.57 top
+
+top - 12:44:29 up 59 days, 21:42,  0 users,  load average: 1.00, 1.31, 1.75
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 13.2 us,  0.5 sy,  0.0 ni, 85.0 id,  1.3 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27386608 free,  2044280 used,  3096480 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29108988 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  11:27.42 python3
+ 2186 root      20   0  245236  12456   7400 S   8.3  0.0  45:10.47 snmpd
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.50 nvidia-smi
+
+top - 12:44:32 up 59 days, 21:42,  0 users,  load average: 1.00, 1.31, 1.75
+Tasks: 183 total,   2 running, 181 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.8 us,  0.3 sy,  0.0 ni, 86.9 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27372136 free,  2057780 used,  3097452 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29095380 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2  11:30.44 python3
+ 2186 root      20   0  245236  12456   7400 S   2.0  0.0  45:10.53 snmpd
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.51 nvidia-smi
+
+top - 12:44:35 up 59 days, 21:42,  0 users,  load average: 1.00, 1.30, 1.74
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27386180 free,  2043736 used,  3097452 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109424 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2  11:33.46 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.53 nvidia-smi
+
+top - 12:44:38 up 59 days, 21:42,  0 users,  load average: 1.00, 1.30, 1.74
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27387056 free,  2042860 used,  3097452 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29110300 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2  11:36.49 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.55 nvidia-smi
+
+top - 12:44:41 up 59 days, 21:42,  0 users,  load average: 1.00, 1.30, 1.74
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27386956 free,  2042960 used,  3097452 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29110200 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  11:39.51 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.57 nvidia-smi
+ 2193 root      20   0  584496  19640   6132 S   0.3  0.1   9:50.64 tuned
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.58 top
+
+top - 12:44:44 up 59 days, 21:42,  0 users,  load average: 1.00, 1.29, 1.73
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27386956 free,  2042960 used,  3097452 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29110200 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  11:42.54 python3
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.59 top
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.58 nvidia-smi
+
+top - 12:44:47 up 59 days, 21:42,  0 users,  load average: 1.00, 1.29, 1.73
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27386204 free,  2043712 used,  3097452 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109448 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  11:45.56 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.59 nvidia-smi
+
+top - 12:44:50 up 59 days, 21:42,  0 users,  load average: 1.00, 1.29, 1.73
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27386212 free,  2043704 used,  3097452 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109456 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2  11:48.58 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.61 nvidia-smi
+
+top - 12:44:53 up 59 days, 21:42,  0 users,  load average: 1.00, 1.28, 1.73
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.2 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27386056 free,  2043860 used,  3097452 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109300 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  11:51.60 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.63 nvidia-smi
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.33 khugepaged
+
+top - 12:44:56 up 59 days, 21:42,  0 users,  load average: 1.00, 1.28, 1.73
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27386348 free,  2043568 used,  3097452 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109592 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  11:54.62 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.64 nvidia-smi
+
+top - 12:44:59 up 59 days, 21:42,  0 users,  load average: 1.00, 1.28, 1.72
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27386348 free,  2043568 used,  3097452 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109592 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2  11:57.64 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.66 nvidia-smi
+
+top - 12:45:02 up 59 days, 21:42,  0 users,  load average: 1.00, 1.28, 1.72
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27385980 free,  2043936 used,  3097452 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109224 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  12:00.66 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.68 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.60 top
+
+top - 12:45:05 up 59 days, 21:42,  0 users,  load average: 1.00, 1.27, 1.72
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27386276 free,  2043636 used,  3097456 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109524 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2  12:03.69 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.70 nvidia-smi
+
+top - 12:45:08 up 59 days, 21:42,  0 users,  load average: 1.00, 1.27, 1.71
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27386276 free,  2043636 used,  3097456 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109524 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2  12:06.71 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.71 nvidia-smi
+
+top - 12:45:11 up 59 days, 21:42,  0 users,  load average: 1.00, 1.27, 1.71
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27385908 free,  2044004 used,  3097456 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109156 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  12:09.73 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.73 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.61 top
+
+top - 12:45:14 up 59 days, 21:43,  0 users,  load average: 1.00, 1.26, 1.71
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27385908 free,  2044004 used,  3097456 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109156 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  12:12.76 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.74 nvidia-smi
+
+top - 12:45:17 up 59 days, 21:43,  0 users,  load average: 1.00, 1.26, 1.71
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27385908 free,  2044004 used,  3097456 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109156 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  12:15.78 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.76 nvidia-smi
+ 2186 root      20   0  245236  12456   7400 S   0.3  0.0  45:10.54 snmpd
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.62 top
+
+top - 12:45:20 up 59 days, 21:43,  0 users,  load average: 1.00, 1.26, 1.71
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27385908 free,  2044004 used,  3097456 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109156 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  12:18.81 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.78 nvidia-smi
+
+top - 12:45:23 up 59 days, 21:43,  0 users,  load average: 1.00, 1.25, 1.70
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27385896 free,  2044016 used,  3097456 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109144 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  12:21.83 python3
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.34 khugepaged
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.79 nvidia-smi
+
+top - 12:45:26 up 59 days, 21:43,  0 users,  load average: 1.00, 1.25, 1.70
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27385896 free,  2044016 used,  3097456 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109144 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2  12:24.85 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.81 nvidia-smi
+
+top - 12:45:29 up 59 days, 21:43,  0 users,  load average: 1.00, 1.25, 1.70
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.9 us,  0.3 sy,  0.0 ni, 86.8 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27385168 free,  2044732 used,  3097468 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29108424 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  12:27.87 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.83 nvidia-smi
+ 2266 munge     20   0  231964   2656   1624 S   0.3  0.0   0:57.56 munged
+
+top - 12:45:32 up 59 days, 21:43,  0 users,  load average: 1.00, 1.25, 1.70
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27385500 free,  2044400 used,  3097468 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29108760 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  12:30.89 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.85 nvidia-smi
+
+top - 12:45:35 up 59 days, 21:43,  0 users,  load average: 1.00, 1.25, 1.69
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.6 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27386208 free,  2043692 used,  3097468 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109468 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2  12:33.91 python3
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.63 top
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.86 nvidia-smi
+
+top - 12:45:38 up 59 days, 21:43,  0 users,  load average: 1.00, 1.24, 1.69
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27386208 free,  2043692 used,  3097468 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109468 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2  12:36.94 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.88 nvidia-smi
+
+top - 12:45:41 up 59 days, 21:43,  0 users,  load average: 1.00, 1.24, 1.69
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27385876 free,  2044024 used,  3097468 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109136 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.0  6.2  12:39.95 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.89 nvidia-smi
+
+top - 12:45:44 up 59 days, 21:43,  0 users,  load average: 1.00, 1.24, 1.69
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.0 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27385876 free,  2044024 used,  3097468 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109136 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2  12:42.98 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.91 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.64 top
+
+top - 12:45:47 up 59 days, 21:43,  0 users,  load average: 1.00, 1.24, 1.69
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27385876 free,  2044024 used,  3097468 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109136 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2  12:46.00 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.93 nvidia-smi
+ 2179 root      20   0   16336   1228   1064 S   0.3  0.0   7:21.69 lldpad
+
+top - 12:45:50 up 59 days, 21:43,  0 users,  load average: 1.00, 1.23, 1.68
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27386204 free,  2043692 used,  3097472 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109464 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  12:49.02 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.94 nvidia-smi
+
+top - 12:45:53 up 59 days, 21:43,  0 users,  load average: 1.00, 1.23, 1.68
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.9 us,  0.7 sy,  0.0 ni, 86.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27385124 free,  2044756 used,  3097488 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29108396 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 101.0  6.2  12:52.05 python3
+ 2186 root      20   0  245236  12456   7400 S   1.0  0.0  45:10.57 snmpd
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.96 nvidia-smi
+   37 root      rt   0       0      0      0 S   0.3  0.0   0:31.35 watchdog/6
+   68 root      39  19       0      0      0 S   0.3  0.0   0:44.35 khugepaged
+ 1945 root      20   0  290680  32076  29880 S   0.3  0.1   2:21.37 sssd_nss
+
+top - 12:45:56 up 59 days, 21:43,  0 users,  load average: 1.00, 1.23, 1.68
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27386144 free,  2043736 used,  3097488 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109416 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2  12:55.07 python3
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:04.97 nvidia-smi
+
+top - 12:45:59 up 59 days, 21:43,  0 users,  load average: 1.00, 1.23, 1.68
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.3 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27386144 free,  2043736 used,  3097488 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109416 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.3  6.2  12:58.09 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:04.99 nvidia-smi
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.65 top
+
+top - 12:46:02 up 59 days, 21:43,  0 users,  load average: 1.00, 1.23, 1.68
+Tasks: 175 total,   2 running, 173 sleeping,   0 stopped,   0 zombie
+%Cpu(s): 12.5 us,  0.1 sy,  0.0 ni, 87.4 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 27385732 free,  2044148 used,  3097488 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 29109004 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0   10.7g   1.9g 517248 R 100.7  6.2  13:01.11 python3
+ 2201 root      20   0  321132  33732  32176 S   0.3  0.1   4:17.25 rsyslogd
+31503 ladr      20   0  177900  13464   1028 S   0.3  0.0   0:05.00 nvidia-smi
+
+top - 12:46:05 up 59 days, 21:43,  0 users,  load average: 1.00, 1.22, 1.67
+Tasks: 173 total,   1 running, 171 sleeping,   0 stopped,   1 zombie
+%Cpu(s):  8.1 us,  0.5 sy,  0.0 ni, 89.1 id,  2.2 wa,  0.0 hi,  0.0 si,  0.0 st
+KiB Mem : 32527368 total, 29075232 free,   540880 used,  2911256 buff/cache
+KiB Swap: 16385020 total, 16385020 free,        0 used. 30798796 avail Mem 
+
+  PID USER      PR  NI    VIRT    RES    SHR S  %CPU %MEM     TIME+ COMMAND
+31533 ladr      20   0       0      0      0 Z  67.8  0.0  13:03.15 python3
+31503 ladr      20   0  177900  13464   1028 S   0.7  0.0   0:05.02 nvidia-smi
+31466 root      20   0       0      0      0 S   0.3  0.0   0:00.01 kworker/u1+
+31502 ladr      20   0  172320   2352   1656 R   0.3  0.0   0:00.66 top
+31506 root     -51   0       0      0      0 S   0.3  0.0   0:00.14 irq/31-nvi+

@@ -3,7 +3,7 @@
 #SBATCH --job-name=multiplicationJob
 #SBATCH --output=multjob.%j.txt
 #SBATCH --exclusive
-#SBATCH --gres=gpu:rtx2080:1                
+#SBATCH --gres=gpu:rtx2070:1                
 #SBATCH --time=01:00:00              
 #SBATCH --partition=brown
 
@@ -25,7 +25,7 @@ echo "Setting up conda environment for Cupy and Numpy"
 echo "Running on $(hostname):"
 module load Anaconda3
 eval "$(conda shell.bash hook)"
-source activate testenv2
+source activate cuenv
 
 echo "Run main.py"
 python3 ../../src/main.py

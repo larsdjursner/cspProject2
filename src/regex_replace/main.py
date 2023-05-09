@@ -9,7 +9,7 @@ def regex_replace(testcases):
 
     cu = ("cudf", cudf_size, cudf_time)
     pd = ("pandas", pandas_size, pandas_time)
-
+    print(pandas_size, cudf_size)
     results = [pd, cu]
 
     plot("regex_replace", "Size", "Time in ms",

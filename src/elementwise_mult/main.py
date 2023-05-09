@@ -14,7 +14,7 @@ def el_mult(test_cases, sizes):
 
     results = [numpy_res, cupy_res]
 
-    plot("Elementwise Multiplication", "Matrix Size",
+    plot("Scalar multiplication", "Matrix Size",
          "Time in ms", results, "elementwise_mult_time.png")
 
     numpy_troughput = [size / time for size,
@@ -22,5 +22,5 @@ def el_mult(test_cases, sizes):
     cupy_troughput = [size / time for size, time in zip(cupy_size, cupy_time)]
     tp_results = [("numpy", numpy_size, numpy_troughput),
                   ("cupy", cupy_size, cupy_troughput)]
-    plot("Elementwise Multiplication", "Matrix Size", "Troughput in datasize/ms",
+    plot("Scalar multiplication", "Matrix Size", "Troughput in datasize/ms",
          tp_results, "elementwise_mult_troughput.png", base=2, isThroughput=True)
